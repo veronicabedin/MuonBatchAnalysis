@@ -10,7 +10,7 @@ The aim of the project is to analyse data of muon collisions in a drift tube det
 The signals of the detector are digitised by the TDC and collected in 81 binary files.
 We employ a cluster to parallelise the analysis operations and speed up the computations.
 
-THis was a group project, here the info of the people that worked on this and theyr general informations:
+This was a group project, here the info of the people that worked on this and theyr general informations:
 
 
 Professor in charge: Jacopo Pazzini
