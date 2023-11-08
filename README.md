@@ -1,7 +1,8 @@
 # MuonBatchAnalysis
 Final project of the Management and Analysis of Physics Datasets course
 
-## Title: Batch analysis of cosmic rays using Drift Tubes detectors
+## Title: 
+Batch analysis of cosmic rays using Drift Tubes detectors
 
 ## Introduction
 
